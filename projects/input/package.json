@@ -4,5 +4,8 @@
   "peerDependencies": {
     "@angular/common": "^8.1.0",
     "@angular/core": "^8.1.0"
+  },
+  "dependencies": {
+    "button": "^0.0.3"
   }
 }
